@@ -1,0 +1,15 @@
+
+body
+{
+font-family:helvetica,arial;
+background-color:#DFECFA;
+}
+h2{ color:black;}
+table tr th
+{
+color:red;
+}
+table tr td
+{
+color:#3399FF;
+}
